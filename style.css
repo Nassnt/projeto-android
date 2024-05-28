@@ -53,6 +53,13 @@ header h1{
     text-align: center;
     }
 
+.header1:hover{
+    max-width: 200px;
+    font-size: 1em;
+    max-width: 100%;
+}
+
+
 header p{
     font-family: Arial, Helvetica, sans-serif;
     color: aliceblue;
